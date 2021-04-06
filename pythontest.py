@@ -21,5 +21,4 @@ print(deposit)
 
 #Выявляем максимальную сумму которую можно вынести
 
-max(deposit)
 print(max(deposit))
